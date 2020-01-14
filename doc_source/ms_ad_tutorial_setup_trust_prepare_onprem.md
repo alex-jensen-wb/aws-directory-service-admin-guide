@@ -40,7 +40,7 @@ You must set up DNS conditional forwarders on each domain\. Before doing this on
 
 1. Choose the directory ID of your AWS Managed Microsoft AD\.
 
-1. On the **Details** page, take note of the values in **Directory name** and the **DNS address** of your directory\.
+1. On the **Details** page, take note of the values in **Directory DNS name** and the **DNS address** of your directory\.
 
 1. Now, return to your on\-premises domain controller\. Open Server Manager\.
 
